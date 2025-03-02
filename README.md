@@ -39,7 +39,7 @@ WeLearn自动填充标准答案的脚本，支持进入Welearn每节的学习页
 
 **2.1.GreasyFork**
 
-点击[welearn自动填入标准答案](https://greasyfork.org/en/scripts/528497-welearn%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%85%A5%E6%A0%87%E5%87%86%E7%AD%94%E6%A1%88-filling-standard-answers-on-welearn)，再点击"install"，即可。  
+转到页面[welearn自动填入标准答案 · GreasyFork](https://greasyfork.org/en/scripts/528497-welearn%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%85%A5%E6%A0%87%E5%87%86%E7%AD%94%E6%A1%88-filling-standard-answers-on-welearn)，再点击"install"，即可。  
 
 ![](images/greasyfork.png)
 
