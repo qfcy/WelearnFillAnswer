@@ -2,6 +2,7 @@
 
 WeLearn自动填充标准答案的脚本，支持进入Welearn每节的学习页面之后，自动从html中隐藏的答案元素，填充答案信息。  
 自动填充答案，保证99.9999%准确，经实测能半小时刷完整本书的6个单元。  
+效果截图：
 
 ![](images/fillAnswer.png)
 ![](images/fillAnswer2.png)
